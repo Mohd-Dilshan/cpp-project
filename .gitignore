@@ -1,0 +1,16 @@
+# Build output
+build/
+
+# Compiled files
+*.exe
+*.obj
+*.o
+*.dll
+*.pdb
+
+# VS Code settings (optional — keep if personal)
+.vscode/
+
+# Windows junk
+Thumbs.db
+Desktop.ini
