@@ -2,7 +2,7 @@
 using namespace std;
 
 int main () {
-    int n = 4;
+    int n = 3;
 
     int num = 1;
 
@@ -13,6 +13,7 @@ int main () {
         }
         cout << endl;
     }
+    cout <<"after pattern: " << num << endl; //10
 
     return 0;
 }
